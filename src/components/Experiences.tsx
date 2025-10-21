@@ -39,10 +39,10 @@ export default function Experience() {
           </div>
           <p className="text-sm text-zinc-500 dark:text-zinc-300 loading-relaxed">
             Learned and practiced frontend engineering with attention to code
-            quality and web performance (PHP); Awarded the Rector&apos;s
-            scholarship by collaborating to build one internal web application
-            for DNCC (React); Accelerate the learning process of new members by
-            holding talks/workshops on essential frontend dev (HTML, CSS)
+            quality and web performance (PHP); Awarded the scholarship by
+            collaborating to build one internal web application for DNCC
+            (React); Accelerate the learning process of new members by holding
+            talks/workshops on essential frontend dev (HTML, CSS)
           </p>
         </div>
       </div>
