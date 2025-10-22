@@ -1,6 +1,6 @@
 export default function Skills() {
   return (
-    <section id="skills" className="space-y-6 py-24">
+    <section id="skills" className="space-y-6 pt-24">
       <h3 className="text-sm uppercase tracking-wide font-medium text-zinc-500 dark:text-zinc-300">
         Skills
       </h3>
